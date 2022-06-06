@@ -9,7 +9,7 @@ on:
 env:
   applicationfolder: spring-boot-hello-world-example
   AWS_REGION: us-east-1
-  S3BUCKET: github-projects-bucket
+  S3BUCKET: testing-bucket-waseem
 
 
 jobs:
