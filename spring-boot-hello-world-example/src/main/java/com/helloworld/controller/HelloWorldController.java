@@ -7,6 +7,6 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-return "<h1> Congratulations you have deploy the application using cdk. You have successfully deployed the sample Spring Boot Application . </h1>";
+return "<h1> Congratulations CDK. You have successfully deployed the sample Spring Boot Application . </h1>";
 }
 }
